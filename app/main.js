@@ -1,4 +1,4 @@
 var React = require('react');
 var routes = require('./config/routes');
-React.renderComponent(routes, document.body);
+React.render(routes, document.body);
 
